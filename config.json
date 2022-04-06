@@ -1,0 +1,7 @@
+{
+    "debug": true,
+    "image_save_speed": 5,
+    "board_width": 1000,
+    "board_height": 1000,
+    "rate_limit_time": 1
+}

@@ -1,0 +1,64 @@
+body {
+    background-color: gray;
+    overflow: hidden;
+}
+#colorselector {
+    background-color: rgb(180, 180, 180);
+    border-top: 1px rgba(0, 0, 0, 0.5) solid;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    position: fixed;
+    z-index: 10;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+}
+
+#colorselector button {
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 8px;
+    text-align: center;
+    margin: 10px;
+    margin-left: 0.31%;
+    margin-right: 0.31%;
+    opacity: 75%;
+    height: 50px;
+    width: 2.5%;
+    transition: 250ms;
+    position: absolute;
+}
+
+#colorselector button {
+    border: none;
+    border-radius: 8px;
+    text-align: center;
+    margin: 10px;
+    margin-left: 0.31%;
+    margin-right: 0.31%;
+    opacity: 75%;
+    height: 50px;
+    width: 2.5%;
+    transition: 250ms;
+    position: relative;
+}
+
+#canvas {
+    display: inline;
+    user-select: none;
+    -webkit-user-drag: none;
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    height:500px; 
+    width: 500px; 
+    image-rendering: pixelated; 
+    position: fixed;
+}
+
+#colorselector button:hover {
+    opacity: 100%;
+}
