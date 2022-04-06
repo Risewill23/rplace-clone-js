@@ -5,10 +5,11 @@ Feel free to help if you want
 [Demo](https://rplace-clone.herokuapp.com/)
 
 # Idea for the project
-- Have a drawing board like r/place but for communities
+- Have a drawing board like r/place but for communities to use
 - Have a theme for the board
 - Very configurable
 
 # Notes
 - Not any ratelimit yet so if you want to end it for everybody go ahead
 - I'm not the best at programming
+- This is at the proof of concept stage (It's only been worked on for 2 days now)
