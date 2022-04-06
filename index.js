@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = 3000
+const port = 8080
 const config = require("./config.json")
 const Webs = require("ws")
 const fs = require("fs")
