@@ -2,6 +2,8 @@
 This repo is very broken for now
 Feel free to help if you want
 
+[Demo](https://rplace-clone.herokuapp.com/)
+
 # Idea for the project
 - Have a drawing board like r/place but for communities
 - Have a theme for the board
